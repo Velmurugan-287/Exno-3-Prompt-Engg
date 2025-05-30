@@ -1,60 +1,91 @@
-# Exno-3-Prompt-Engg
+# Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
+### DATE: 26.04.2025                                                                     
+### REGISTER NUMBER : 212222060287
+---
+### Aim: 
+Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-# Ex.No: 3 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: 
-ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
- 
-### Aim:
-To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
+### Algorithm:  
+The goal of this experiment is to design and develop an AI-powered chatbot that can handle customer inquiries, provide support, and improve customer experience in a retail environment. Create prompts using various AI prompting techniques to guide your experiment, data collection, analysis, and report creation
 
-### Algorithm:
-Define the Use Case:
-Select a specific task for evaluation across platforms (e.g., summarizing a document, answering a technical question, or generating a creative story / Code).
-Ensure the use case is applicable to all platforms and will allow for comparison across response quality, accuracy, and depth.
-Create a Set of Prompts:
-Prepare a uniform set of prompts that align with the chosen use case.
-Each prompt should be clear and precise, ensuring that all platforms are evaluated using the same input.
-Consider multiple prompts to capture the versatility of each platform in handling different aspects of the use case.
-Run the Experiment on Each AI Platform:
-Input the prompts into each AI tool (ChatGPT, Claude, Bard, Cohere Command, and Meta) and gather the responses.
-Ensure the same conditions are applied for each platform, such as input format, time to respond, and prompt delivery.
-Record response times, ease of interaction with the platform, and any technical issues encountered.
-Evaluate Response Quality:
-Assess each platform’s responses using the following criteria: Accuracy,Clarity,Depth,Relevance 
-Compare Performance:
-Compare the collected data to identify differences in performance across platforms.
-Identify any platform-specific advantages, such as faster response times, more accurate answers, or more intuitive interfaces.
-Deliverables:
-A comparison table outlining the performance of each platform (ChatGPT, Claude, Bard, Cohere Command, and Meta) based on accuracy, clarity, depth, and relevance of responses.
-A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
+### Prompting Techniques by Stage
+#### 1. Experiment Design
+#### Broad/Naïve Prompting:
 
+“What services should a retail chatbot offer?”
 
+#### Specific Prompting:
 
+“Name 5 customer support features for an e-commerce chatbot.”
 
-# Result : The Prompt for the above problem statement executed successfully.
+#### Scenario-Based Prompting:
 
+“Imagine a customer looking for a late delivery update. How should the chatbot respond?”
 
+#### 2. Data Collection
+#### Role Prompting:
 
+“You are a frustrated customer—ask about your order.”
 
+#### Few-Shot Prompting:
 
+Provide short back-and-forth sample conversations for data synthesis.
 
+#### Survey Prompts:
 
+“Rate your experience from 1-10.”
 
+#### Follow-Up Prompts:
 
+“If the chatbot didn’t help, what went wrong?”
 
+#### 3. Model Training
+Instruction Prompting:
 
+“Classify queries into: Order Status, Product Info, Complaints.”
 
+#### Chain-of-Thought Prompting:
 
+Step-by-step handling of complaints (e.g., ask for ID, check eligibility, respond).
 
+#### Zero-Shot Prompting:
 
+Classify unseen queries without examples to test generalization.
 
+#### 4. Evaluation & Analysis
+Reflexive Prompting:
 
+Ask the AI to critique its own response and offer a better one.
 
+#### Comparative Prompting:
 
+“Compare chatbot accuracy before and after fine-tuning.”
 
+#### Data Synthesis Prompts:
 
+“List top features users requested.”
 
-### Result:
-Thus the Prompting tools are executed and analysed sucessfully .
+#### 5. Report Creation
+#### Persona Prompting:
 
+“Explain performance findings to retail managers in simple terms.”
+
+#### Summary Prompting:
+
+“Summarize key issues users faced with the chatbot.”
+
+#### Recommendation Prompting:
+
+“Based on feedback, suggest 3 improvements.”
+
+#### Experiment Workflow Table:
+
+![image](https://github.com/user-attachments/assets/940f09bf-80b3-4574-bb6d-e12385ca47c8)
+
+#### Findings:
+User Needs Identified
+Prompt Techniques Effectiveness
+Chatbot Accuracy, Relevance, and Response Time
+
+# Result: 
+Thus the Prompts were exected succcessfully.
